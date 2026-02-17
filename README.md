@@ -18,7 +18,7 @@ just everything that I've had a hand in creating, heh)
 **QTENSOR**
 ```diff
 # Quantum-Topologically Entangled Nexus for Secure Open Routing
-!GPL-3.0 license
+!GNU General Public License v3.0 
 
 lorem ipsum
 ```
@@ -35,4 +35,30 @@ lorem ipsum
 !No license
 
 lorem ipsum
+```
+
+##
+##
+
+
+**GooseCool1**
+```diff
+# ОПИСАНИЯ НЕТУ, ХЕХЕХЕ
+!No license
+
+Репозиторий-изгой, не обращай внимания
+```
+
+##
+##
+
+
+**TESRA**
+```diff
+# Transnational Exchange Social Relational Agent
+!GNU General Public License v3.0! <- ДЛЯ ПУБЛИЧНОЙ ЧАСТИ API
+!== ПРОЕКТ В РАЗРАБОТКЕ, РЕПОЗИТОРИЙ БУДЕТ ПЕРЕИМЕНОВАН! ==!
+
+В разработке, жестокая настройка юр.части в процессе, API и
+стадия обучения GooseCool1 будет публиковаться здесь (OwO")
 ```
