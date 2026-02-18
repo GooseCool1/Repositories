@@ -15,7 +15,7 @@ ENG
 ##
 
 
-[![QTENSOR](https://img.shields.io/badge/QTENSOR-E5E5D4?style=for-the-badge)](https://github.com/GooseCool1/TESRA)
+[![QTENSOR](https://img.shields.io/badge/QTENSOR-E5E5D4?style=for-the-badge)](https://github.com/GooseCool1/QTENSOR)
 ```diff
 # QTENSOR : Quantum-Topologically Entangled Nexus for Secure Open Routing
 !GNU General Public License v3.0 
